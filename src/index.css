@@ -1,3 +1,14 @@
+html{
+  font-size:1.6vmin;
+  min-height: 100%;
+  height: auto;
+  display: grid;
+  place-items: center;
+  background: radial-gradient(#2b105f, #01010a);
+  background-repeat: no-repeat;
+  text-align:center;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

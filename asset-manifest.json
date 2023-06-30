@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-magic8-ball/static/css/main.f2808c3d.css",
+    "main.js": "/react-magic8-ball/static/js/main.379d3feb.js",
+    "static/js/787.fde0e8f2.chunk.js": "/react-magic8-ball/static/js/787.fde0e8f2.chunk.js",
+    "index.html": "/react-magic8-ball/index.html",
+    "main.f2808c3d.css.map": "/react-magic8-ball/static/css/main.f2808c3d.css.map",
+    "main.379d3feb.js.map": "/react-magic8-ball/static/js/main.379d3feb.js.map",
+    "787.fde0e8f2.chunk.js.map": "/react-magic8-ball/static/js/787.fde0e8f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2808c3d.css",
+    "static/js/main.379d3feb.js"
+  ]
+}
